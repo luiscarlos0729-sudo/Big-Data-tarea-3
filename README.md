@@ -1,6 +1,6 @@
 # Big Data · Tarea 3 · Procesamiento de datos con Apache Spark
 
-Luis Carlos Benedetti Hernández · UNAD · Curso Big Data 202016911A_2204 · Grupo 202016911_30
+Luis Carlos Benedetti Hernández · UNAD · Curso Big Data 202016911A-2204 · Grupo 202016911-30
 
 Análisis por lotes y en tiempo real del dataset **Online Retail** (UCI Machine Learning Repository): 541.909 transacciones de una tienda en línea del Reino Unido, de diciembre de 2010 a diciembre de 2011, en 38 países.
 
