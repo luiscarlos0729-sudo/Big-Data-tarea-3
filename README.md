@@ -48,5 +48,9 @@ En la consola aparecen los micro-lotes (`Batch: N`) con las columnas `window`, `
 
 ## Videos
 
-- Video 1 · Análisis por lotes: [enlace pendiente]
+- Video 1 · Análisis por lotes: https://youtu.be/ihqr459KOVI
 - Video 2 · Kafka y Spark Streaming: https://youtu.be/qzbCUZ6MaKo
+
+## Presentación
+
+- Presentación online (Canva): https://canva.link/j4sw2nnt4zud4xk
